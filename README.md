@@ -1,0 +1,2 @@
+# cotizador-seguros-autos
+Es un cotizador de seguros de vehículos sencillo hecho con ayuda de React.js Bastante sencillo El precio base es de $2000 El precio disminuye un 3% por cada año de diferencia con el vigente El precio aumenta según el tipo de plan: 20% para el sencillo, 50% para el completo El modelo del carro aumenta el precio del seguro también: Si es una marca Americana aumenta en un 15%, si es Europea aumenta en un 30% y si es Asiático aumenta en un 5%.
